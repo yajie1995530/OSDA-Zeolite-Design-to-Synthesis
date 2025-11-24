@@ -3,7 +3,7 @@
         "Zeolite type": "MFI",
         "SMILES": "CC[N@@+]1(C)CCCC[C@@H]1C",
         "OSDA formula": "C9H20N+",
-        "Composition energy/kJ·mol-1": 6.867848106926704,
+        "Composition energy/kJ·mol-1": 6.867848106626704,
         "Ele/kJ·mol-1": -364.0443467303018,
         "Ex-rep/kcal·mol-1": 245.87093139513345,
         "Pol/kJ·mol-1": -57.354055710240566,
@@ -13274,4 +13274,5 @@
         "Axis X (Angstrom)": 5.582829061205422,
         "Axis Y (Angstrom)": 5.261614616061152
     }
+
 ]
