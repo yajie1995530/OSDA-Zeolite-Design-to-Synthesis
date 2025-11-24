@@ -3,7 +3,7 @@
         "Zeolite type": "CHA",
         "SMILES": "[NH3+][C@@H]1CCCC[C@H]1[NH3+]",
         "OSDA formula": "C6H16N2+2",
-        "Composition energy/kJ·mol-1": 7.22218036388142,
+        "Composition energy/kJ·mol-1": 7.22218035388142,
         "Ele/kJ·mol-1": -362.6112317013686,
         "Ex-rep/kcal·mol-1": 244.90302369343465,
         "Pol/kJ·mol-1": -57.128272890243885,
@@ -12119,4 +12119,5 @@
         "Axis X (Angstrom)": 6.553460155979801,
         "Axis Y (Angstrom)": 2.814000451931118
     }
+
 ]
